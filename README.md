@@ -1,5 +1,5 @@
 # MCpermanent
-A python module written in C++ to compute the permanent of a numpy matrix upto given accuracy  using random Monte Carlo method.
+A python module based on C++ implentation of Michele Ceriotti  to compute the permanent of a numpy matrix upto given accuracy  using random Monte Carlo method.
 
 Installing:
 
